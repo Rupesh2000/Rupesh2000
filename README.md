@@ -41,8 +41,8 @@
 <div align="center">
     <a herf="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=java,nodejs,express,javascript,python,mongodb,cpp,c,github" /><br>
-        <img src="https://skillicons.dev/icons?i=react,mysql,html,css,figma,gitvscode,angular" />
-        <img src="https://skillicons.dev/icons?i=selenium,testng,maven,jenkins,postman,gitlab" />
+        <img src="https://skillicons.dev/icons?i=react,mysql,html,css,figma,git,vscode,angular" />
+        <img src="https://skillicons.dev/icons?i=selenium,maven,jenkins,postman,gitlab" />
     </a>
 </div>
 
