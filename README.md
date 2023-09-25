@@ -40,9 +40,9 @@
 <br/>
 <div align="center">
     <a herf="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,nodejs,express,javascript,python,mongodb,c++,c,github" /><br>
-        <img src="https://skillicons.dev/icons?i=react,mysql,html,css,figma,gitvscode" />
-        <img src="https://skillicons.dev/icons?i=selenium,testng,maven,jenkins,framework design, pom />
+        <img src="https://skillicons.dev/icons?i=java,nodejs,express,javascript,python,mongodb,cpp,c,github" /><br>
+        <img src="https://skillicons.dev/icons?i=react,mysql,html,css,figma,gitvscode,angular" />
+        <img src="https://skillicons.dev/icons?i=selenium,testng,maven,jenkins,postman,gitlab" />
     </a>
 </div>
 
