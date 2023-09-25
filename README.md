@@ -34,6 +34,18 @@
     </a>
 </div>
 
+<hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <a herf="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,nodejs,express,javascript,python,mongodb,c++,c,github" /><br>
+        <img src="https://skillicons.dev/icons?i=react,mysql,html,css,figma,gitvscode" />
+        <img src="https://skillicons.dev/icons?i=selenium,testng,maven,jenkins,framework design, pom />
+    </a>
+</div>
+
 - 👋 Hi, I’m @Rupesh2000
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
