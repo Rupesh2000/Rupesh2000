@@ -61,6 +61,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
+    <img width=390 src="https://streak-stats.demolab.com/?user=Rupesh2000&theme=dark](https://git.io/streak-stats)"/>
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=Rupesh2000&theme=merko&hide_border=false&include_all_commits=true&count_private=true"/>
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rupesh2000&theme=merko&hide_border=false)<br/>
