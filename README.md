@@ -63,6 +63,9 @@
 <br>
 <div align=center>
     ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupesh2000&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+    <br/>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=Rupesh2000&theme=merko&hide_border=false)
+<br/>
     <img width=390 src="https://streak-stats.demolab.com/?user=Rupesh2000&count_private=true&theme=react&border_radius=10" alt="streak stats" />
     <img width=390 src="https://github-readme-stats-Rupesh2000.vercel.app/api?username=Rupesh2000&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
     <br/>
