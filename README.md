@@ -24,7 +24,7 @@
 
 <div align="center">
     <a herf="rupeshk.8986@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red" target="-blank" />
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="-blank" />
     </a>
     <a herf="https://www.linkedin.com/in/rupesh-kumar-b7a8b5212/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
