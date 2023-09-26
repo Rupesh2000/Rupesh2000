@@ -26,7 +26,7 @@
     <a herf="mailto:rupeshk.8986@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
-    <a herf="https://www.linkedin.com/in/rupesh-kumar-b7a8b5212" >
+    <a herf="https://www.linkedin.com/in/rupesh-kumar-b7a8b5212" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
     <a herf="https://github.com/Rupesh2000" target="_blank">
@@ -53,6 +53,7 @@
     <h2>🐍 My Contributions 🐍</h2>
     <br>
     <img alt="snake eating my contributions" src="https://github.com/Rupesh2000/Rupesh2000/blob/output/github-contribution-grid-snake.svg" />
+    
     <br/><br/><br/>
 </div>
 
@@ -62,6 +63,9 @@
 <br>
 <div align=center>
     <img width=390 src="https://streak-stats.demolab.com/?user=Rupesh2000&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+    <img width=390 src="https://github-readme-stats-Rupesh2000.vercel.app/api?username=Rupesh2000&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    <br/>
+    <img width=325 align="center" src="https://github-readme-stats-Rupesh2000.vercel.app/api/top-langs/?username=Rupesh2000&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
@@ -72,10 +76,3 @@
 </h3>
 
 <br/> 
-
-
-
-<!---
-Rupesh2000/Rupesh2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
