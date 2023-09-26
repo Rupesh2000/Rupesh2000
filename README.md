@@ -54,7 +54,7 @@
     <br>
     <img alt="snake eating my contributions" src="https://github.com/Rupesh2000/Rupesh2000/blob/output/github-contribution-grid-snake.svg" />
     
-    <br/><br/><br/>
+    <br/>
 </div>
 
 <hr/>
@@ -62,7 +62,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-    <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupesh2000&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupesh2000&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
     <img width=390 src="https://streak-stats.demolab.com/?user=Rupesh2000&count_private=true&theme=react&border_radius=10" alt="streak stats" />
     <img width=390 src="https://github-readme-stats-Rupesh2000.vercel.app/api?username=Rupesh2000&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
     <br/>
