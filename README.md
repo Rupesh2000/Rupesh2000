@@ -23,13 +23,13 @@
 </div>
 
 <div align="center">
-    <a herf="mailto:rupeshk.8986@gmail.com">
+    <a href="mailto:rupeshk.8986@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
-    <a herf="https://www.linkedin.com/in/rupesh-kumar-b7a8b5212" target="_blank">
+    <a href="https://www.linkedin.com/in/rupesh-kumar-b7a8b5212" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
-    <a herf="https://github.com/Rupesh2000" target="_blank">
+    <a href="https://github.com/Rupesh2000" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" /> <!-- google-chrome, safari and other good icon options -->
     </a>
 </div>
