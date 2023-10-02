@@ -62,10 +62,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-![](https://github-readme-stats.vercel.app/api?username=Rupesh2000&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rupesh2000&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupesh2000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+    <img width=390 src="https://streak-stats.demolab.com?user=Rupesh2000&theme=dark&hide_border=true&border_radius=10" alt="streak stats"/>
+    
 <br/>
     
 </div>
