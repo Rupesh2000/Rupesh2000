@@ -56,7 +56,11 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br/>
-  <img alt="snake eating my contributions" src="https://github.com/Rupesh2000/Rupesh2000/blob/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Rupesh2000/Rupesh2000/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Rupesh2000/Rupesh2000/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://github.com/Rupesh2000/Rupesh2000/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 <br/>
@@ -66,10 +70,40 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div align="center">
-  <img width="390" src="https://streak-stats.demolab.com?user=Rupesh2000&theme=react&hide_border=true&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Rupesh2000&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
+  <!-- Streak Stats -->
+  <picture>
+    <source 
+      srcset="https://streak-stats.demolab.com?user=Rupesh2000&theme=react&hide_border=true&border_radius=10#gh-dark-mode-only" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://streak-stats.demolab.com?user=Rupesh2000&theme=default&hide_border=true&border_radius=10#gh-light-mode-only" 
+      media="(prefers-color-scheme: light)" />
+    <img width="390" alt="streak stats" src="https://streak-stats.demolab.com?user=Rupesh2000&theme=react&hide_border=true&border_radius=10" />
+  </picture>
+
+  <!-- Readme Stats -->
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Rupesh2000&show_icons=true&theme=react&rank_icon=github&border_radius=10#gh-dark-mode-only" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Rupesh2000&show_icons=true&theme=default&rank_icon=github&border_radius=10#gh-light-mode-only" 
+      media="(prefers-color-scheme: light)" />
+    <img width="390" alt="readme stats" src="https://github-readme-stats.vercel.app/api?username=Rupesh2000&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+  </picture>
+
   <br/>
-  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupesh2000&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
+
+  <!-- Top Languages -->
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupesh2000&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10#gh-dark-mode-only" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupesh2000&hide=HTML&langs_count=8&layout=compact&theme=default&border_radius=10#gh-light-mode-only" 
+      media="(prefers-color-scheme: light)" />
+    <img width="330" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupesh2000&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" />
+  </picture>
 </div>
 
 
