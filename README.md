@@ -14,11 +14,11 @@
 
  🌱 I’m currently learning **React, Node.js, Express.js, MongoDB**
 
- 💬 Ask me about **HTML, CSS, Javascript... or anything [here](https://github.com/Rupesh2000/Rupesh2000/pulls)**
+ 💬 Ask me about **HTML, CSS, JavaScript... or anything [here](https://github.com/Rupesh2000/Rupesh2000/pulls)**
 
- 💞️ I’m looking to collaborate on **Devlopment Based Projects**
+ 💞️ I’m looking to collaborate on **Development-Based Projects**
 
- ⚡ Fun fact **Volleyball, Watch Anime, Reading Books**
+ ⚡ Fun fact **Playing Volleyball, Watching Anime, Reading Books**
 
 </div>
 
